@@ -1,0 +1,25 @@
+2026/08/20 17:07:27 chat server listening on 0.0.0.0:34332 with memory storage
+2026/08/20 17:07:28 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:07:28 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:07:28 [Request] GET /user_message_group | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/20 17:07:28 [Query Parameters]
+2026/08/20 17:07:28   user_id = 6d715983-e2c5-4cf2-9b97-6ca691353fb4
+[GIN] 2026/08/20 - 17:07:28 | 404 |            0s |       127.0.0.1 | GET      "/user_message_group?user_id=6d715983-e2c5-4cf2-9b97-6ca691353fb4"
+2026/08/20 17:07:38 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:07:38 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:07:48 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:07:48 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:07:58 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:07:58 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:08:08 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:08:08 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:08:18 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:08:18 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:08:28 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:08:28 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:08:38 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:08:38 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:08:48 [Request] GET /register_ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:08:48 | 404 |            0s |       127.0.0.1 | GET      "/register_ws"
+2026/08/20 17:14:32 file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\server\cmd\server\logs\server_
+2026/08/20 17:14:32 chat server listening on 0.0.0.0:34332 with memory storage

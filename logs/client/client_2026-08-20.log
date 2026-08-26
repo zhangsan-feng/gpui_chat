@@ -1,0 +1,16 @@
+[2026-08-20 17:37:55] [INFO] [gui] [gui\src\main.rs:51] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-20.log
+[2026-08-20 17:37:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:25] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\session.sqlite3
+[2026-08-20 17:37:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-20 17:37:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-20 17:37:55] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-20 17:37:56] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:25] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\session.sqlite3
+[2026-08-20 17:37:56] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)
+[2026-08-20 17:37:56] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)
+[2026-08-20 17:40:39] [INFO] [gui] [gui\src\main.rs:51] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-20.log
+[2026-08-20 17:40:39] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:25] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\session.sqlite3
+[2026-08-20 17:40:39] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-20 17:40:39] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-20 17:40:39] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-20 17:40:40] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:25] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\session.sqlite3
+[2026-08-20 17:40:40] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)
+[2026-08-20 17:40:40] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)

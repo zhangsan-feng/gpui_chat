@@ -1,0 +1,622 @@
+2026/08/26 09:24:15 main.go:55: file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\logs\server\server_
+2026/08/26 09:24:15 main.go:111: development bootstrap root account: username=root password=root123456 created=false
+2026/08/26 09:24:15 main.go:119: chat server listening on 0.0.0.0:34332 with sqlite storage
+2026/08/26 09:28:41 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:28:41 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:28:41 | 200 |     68.2289ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:28:41 | 200 |     68.2289ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:29:23 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:29:23 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:29:23 | 200 |      1.0697ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:29:23 | 200 |      1.0697ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:29:42 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:29:42 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:29:42 | 200 |       550.8µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:29:42 | 200 |       550.8µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:30:10 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:30:10 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:30:10 | 200 |       546.5µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:30:10 | 200 |       546.5µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:30:31 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:30:31 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:30:31 | 200 |         545µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:30:31 | 200 |         547µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:34:14 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:34:14 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:34:14 | 200 |       518.9µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:34:14 | 200 |       518.9µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:40:36 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:40:36 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:40:36 | 200 |       567.1µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 09:40:36 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:43:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:43:53 | 200 |       568.3µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 09:43:53 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:43:53 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 09:44:09 request_logging.go:21: [Request] POST /api/v1/auth/refresh | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 358
+2026/08/26 09:44:09 request_logging.go:143: [JSON Body]
+{
+  "refresh_token": "[REDACTED]"
+}
+[GIN] 2026/08/26 - 09:44:09 | 200 |       517.6µs |       127.0.0.1 | POST     "/api/v1/auth/refresh"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:45: [Query Parameters]
+2026/08/26 09:44:09 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 09:44:09 | 200 |      1.5876ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:45: [Query Parameters]
+2026/08/26 09:44:09 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:44:09 | 200 |      2.6892ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+[GIN] 2026/08/26 - 09:44:09 | 200 |      3.2146ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:44:09 | 200 |      3.1854ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 09:44:09 | 200 |      1.5593ms |       127.0.0.1 | GET      "/assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:45: [Query Parameters]
+2026/08/26 09:44:09 request_logging.go:48:   avatar_key = fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b
+[GIN] 2026/08/26 - 09:44:09 | 200 |       541.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b"
+2026/08/26 09:44:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 09:44:09 request_logging.go:45: [Query Parameters]
+2026/08/26 09:44:09 request_logging.go:48:   avatar_key = 73c19b7a-55fd-4dcd-94b0-baf4511aaa9b
+[GIN] 2026/08/26 - 09:44:09 | 200 |       534.3µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=73c19b7a-55fd-4dcd-94b0-baf4511aaa9b"
+[GIN] 2026/08/26 - 09:44:09 | 200 |      6.4049ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+[GIN] 2026/08/26 - 09:44:20 | 200 |   11.1761445s |       127.0.0.1 | GET      "/ws"
+2026/08/26 10:24:42 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:24:42 | 200 |       537.4µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 10:24:42 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:24:42 | 200 |       539.3µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 10:24:50 request_logging.go:21: [Request] POST /api/v1/auth/refresh | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 358
+2026/08/26 10:24:50 request_logging.go:143: [JSON Body]
+{
+  "refresh_token": "[REDACTED]"
+}
+[GIN] 2026/08/26 - 10:24:50 | 200 |      2.2438ms |       127.0.0.1 | POST     "/api/v1/auth/refresh"
+2026/08/26 10:24:50 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:50 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:50 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 10:24:50 | 200 |      1.0246ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:51 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 10:24:51 | 200 |      2.1197ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+[GIN] 2026/08/26 - 10:24:51 | 200 |      2.6477ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:24:51 | 200 |      3.4037ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:51 request_logging.go:48:   avatar_key = fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b
+[GIN] 2026/08/26 - 10:24:51 | 200 |       526.1µs |       127.0.0.1 | GET      "/assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png"
+[GIN] 2026/08/26 - 10:24:51 | 200 |       619.7µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b"
+2026/08/26 10:24:51 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:51 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:51 request_logging.go:48:   avatar_key = 73c19b7a-55fd-4dcd-94b0-baf4511aaa9b
+[GIN] 2026/08/26 - 10:24:51 | 200 |      3.9519ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+[GIN] 2026/08/26 - 10:24:51 | 200 |       533.2µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=73c19b7a-55fd-4dcd-94b0-baf4511aaa9b"
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 10:24:54 | 200 |       537.9µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+[GIN] 2026/08/26 - 10:24:54 | 200 |       537.9µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+[GIN] 2026/08/26 - 10:24:54 | 200 |       545.9µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:24:54 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+[GIN] 2026/08/26 - 10:24:54 | 200 |       539.5µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+[GIN] 2026/08/26 - 10:24:54 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+2026/08/26 10:24:54 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+[GIN] 2026/08/26 - 10:24:54 | 200 |       529.1µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+2026/08/26 10:24:54 request_logging.go:45: [Query Parameters]
+2026/08/26 10:24:54 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+[GIN] 2026/08/26 - 10:24:54 | 200 |       534.8µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+[GIN] 2026/08/26 - 10:24:54 | 200 |       534.8µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+[GIN] 2026/08/26 - 10:24:54 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+[GIN] 2026/08/26 - 10:25:01 | 200 |   10.6242785s |       127.0.0.1 | GET      "/ws"
+2026/08/26 10:25:05 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:05 | 200 |       535.4µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 10:25:05 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:05 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:06 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 10:25:06 | 200 |      1.0631ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:06 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:06 | 200 |       559.1µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:06 | 200 |      2.7652ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+[GIN] 2026/08/26 - 10:25:06 | 200 |       1.683ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:06 | 200 |      1.0592ms |       127.0.0.1 | GET      "/assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:06 request_logging.go:48:   avatar_key = fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b
+[GIN] 2026/08/26 - 10:25:06 | 200 |       3.221ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+[GIN] 2026/08/26 - 10:25:06 | 200 |       534.8µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b"
+2026/08/26 10:25:06 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:06 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:06 request_logging.go:48:   avatar_key = 73c19b7a-55fd-4dcd-94b0-baf4511aaa9b
+[GIN] 2026/08/26 - 10:25:06 | 200 |       540.1µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=73c19b7a-55fd-4dcd-94b0-baf4511aaa9b"
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 10:25:09 | 200 |       522.3µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:09 | 200 |       594.9µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 10:25:09 | 200 |         540µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+[GIN] 2026/08/26 - 10:25:09 | 200 |       641.8µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+[GIN] 2026/08/26 - 10:25:09 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+[GIN] 2026/08/26 - 10:25:09 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+2026/08/26 10:25:09 request_logging.go:45: [Query Parameters]
+2026/08/26 10:25:09 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+[GIN] 2026/08/26 - 10:25:09 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+[GIN] 2026/08/26 - 10:25:09 | 200 |       597.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+[GIN] 2026/08/26 - 10:25:09 | 200 |       548.3µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+[GIN] 2026/08/26 - 10:25:09 | 200 |       597.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+[GIN] 2026/08/26 - 10:25:13 | 200 |    6.9686933s |       127.0.0.1 | GET      "/ws"
+2026/08/26 10:47:47 main.go:55: file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\logs\server\server_
+2026/08/26 10:47:47 main.go:111: development bootstrap root account: username=root password=root123456 created=false
+2026/08/26 10:47:47 main.go:119: chat server listening on 0.0.0.0:34332 with sqlite storage
+2026/08/26 11:37:57 main.go:55: file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\logs\server\server_
+2026/08/26 11:37:57 main.go:111: development bootstrap root account: username=root password=root123456 created=false
+2026/08/26 11:37:57 main.go:119: chat server listening on 0.0.0.0:34332 with sqlite storage
+2026/08/26 11:37:58 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:37:58 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:37:58 | 200 |     53.7306ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+[GIN] 2026/08/26 - 11:37:58 | 200 |     54.2611ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 11:38:01 request_logging.go:21: [Request] POST /api/v1/auth/refresh | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 358
+2026/08/26 11:38:01 request_logging.go:143: [JSON Body]
+{
+  "refresh_token": "[REDACTED]"
+}
+[GIN] 2026/08/26 - 11:38:01 | 200 |      2.2752ms |       127.0.0.1 | POST     "/api/v1/auth/refresh"
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:01 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:38:01 | 200 |       505.5µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:01 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:38:01 | 200 |       2.214ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:38:01 | 200 |      4.5161ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+[GIN] 2026/08/26 - 11:38:01 | 200 |       2.146ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:01 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:01 request_logging.go:48:   avatar_key = fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b
+[GIN] 2026/08/26 - 11:38:01 | 200 |      1.0834ms |       127.0.0.1 | GET      "/assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png"
+2026/08/26 11:38:01 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:38:01 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b"
+2026/08/26 11:38:01 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:01 request_logging.go:48:   avatar_key = 73c19b7a-55fd-4dcd-94b0-baf4511aaa9b
+[GIN] 2026/08/26 - 11:38:01 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=73c19b7a-55fd-4dcd-94b0-baf4511aaa9b"
+[GIN] 2026/08/26 - 11:38:01 | 200 |      2.6771ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:38:04 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+[GIN] 2026/08/26 - 11:38:04 | 200 |       750.8µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+[GIN] 2026/08/26 - 11:38:04 | 200 |       519.5µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+[GIN] 2026/08/26 - 11:38:04 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+[GIN] 2026/08/26 - 11:38:04 | 200 |       522.8µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:38:04 | 200 |         520µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+2026/08/26 11:38:04 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+[GIN] 2026/08/26 - 11:38:04 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+2026/08/26 11:38:04 request_logging.go:45: [Query Parameters]
+[GIN] 2026/08/26 - 11:38:04 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+2026/08/26 11:38:04 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+[GIN] 2026/08/26 - 11:38:04 | 200 |       524.6µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+[GIN] 2026/08/26 - 11:38:04 | 200 |       525.2µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+2026/08/26 11:38:11 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:38:11 request_logging.go:45: [Query Parameters]
+2026/08/26 11:38:11 request_logging.go:48:   avatar_key = 1dea5735-f42b-45c8-b756-7aeba911719c
+[GIN] 2026/08/26 - 11:38:11 | 200 |       527.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=1dea5735-f42b-45c8-b756-7aeba911719c"
+[GIN] 2026/08/26 - 11:38:42 | 200 |   41.0077629s |       127.0.0.1 | GET      "/ws"
+2026/08/26 11:45:22 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:45:22 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 11:45:22 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:45:22 | 200 |         516µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 11:45:27 request_logging.go:21: [Request] POST /api/v1/auth/refresh | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 359
+2026/08/26 11:45:27 request_logging.go:143: [JSON Body]
+{
+  "refresh_token": "[REDACTED]"
+}
+[GIN] 2026/08/26 - 11:45:27 | 200 |       544.7µs |       127.0.0.1 | POST     "/api/v1/auth/refresh"
+2026/08/26 11:45:27 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:27 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:27 request_logging.go:48:   user_id = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 11:45:27 | 200 |       796.2µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:28 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:28 request_logging.go:48:   user_id = 0c64e211-09dd-4e53-870a-031940f079dc
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:45:28 | 200 |      1.1281ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:45:28 | 200 |      2.3572ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+[GIN] 2026/08/26 - 11:45:28 | 200 |      3.9949ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:28 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:28 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:28 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:28 request_logging.go:48:   avatar_key = 73c19b7a-55fd-4dcd-94b0-baf4511aaa9b
+2026/08/26 11:45:28 request_logging.go:48:   avatar_key = fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b
+[GIN] 2026/08/26 - 11:45:28 | 200 |         525µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=fe229de2-da9c-4c00-bcb1-4e3cbf7bc22b"
+[GIN] 2026/08/26 - 11:45:28 | 200 |         525µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=73c19b7a-55fd-4dcd-94b0-baf4511aaa9b"
+[GIN] 2026/08/26 - 11:45:28 | 200 |      2.7156ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+2026/08/26 11:45:38 request_logging.go:21: [Request] POST /api/v1/user/profile | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=0b4c76ab9f0d2bcb-50703a5f6fde4a9a-31971a60a7b9c166-f58bc558b335a0e2 | Content-Length: 599
+2026/08/26 11:45:38 request_logging.go:122: [Form Fields]
+2026/08/26 11:45:38 request_logging.go:125:   new_password = 
+2026/08/26 11:45:38 request_logging.go:125:   username = 测试账号
+2026/08/26 11:45:38 request_logging.go:125:   login_name = 1234
+2026/08/26 11:45:38 request_logging.go:125:   current_password = 
+[GIN] 2026/08/26 - 11:45:38 | 200 |      5.0548ms |       127.0.0.1 | POST     "/api/v1/user/profile"
+2026/08/26 11:45:45 request_logging.go:21: [Request] POST /api/v1/friend/remove | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 52
+2026/08/26 11:45:45 request_logging.go:143: [JSON Body]
+{
+  "friend_id": "76230ec9-ec5f-451e-8347-520b0815ee97"
+}
+[GIN] 2026/08/26 - 11:45:45 | 200 |     10.7183ms |       127.0.0.1 | POST     "/api/v1/friend/remove"
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:45:46 | 200 |      1.0664ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+[GIN] 2026/08/26 - 11:45:46 | 200 |       1.073ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+[GIN] 2026/08/26 - 11:45:46 | 200 |       524.7µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 11:45:46 | 200 |       524.7µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+[GIN] 2026/08/26 - 11:45:46 | 200 |         527µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:45:46 | 200 |       588.4µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+2026/08/26 11:45:46 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+[GIN] 2026/08/26 - 11:45:46 | 200 |       573.6µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+2026/08/26 11:45:46 request_logging.go:45: [Query Parameters]
+2026/08/26 11:45:46 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+[GIN] 2026/08/26 - 11:45:46 | 200 |       530.2µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+[GIN] 2026/08/26 - 11:45:46 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+[GIN] 2026/08/26 - 11:45:46 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+[GIN] 2026/08/26 - 11:46:46 | 200 |         1m17s |       127.0.0.1 | GET      "/ws"
+2026/08/26 11:48:52 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:48:52 | 200 |       513.4µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 11:48:52 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:48:52 | 200 |       550.4µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 11:49:37 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:37 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:37 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:49:37 | 200 |         521µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   user_id = 76230ec9-ec5f-451e-8347-520b0815ee97
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:38 | 200 |       521.2µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:38 | 200 |      1.6171ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+[GIN] 2026/08/26 - 11:49:38 | 200 |      1.6508ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:49:38 | 200 |       534.1µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+[GIN] 2026/08/26 - 11:49:38 | 200 |       3.709ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+[GIN] 2026/08/26 - 11:49:38 | 200 |       520.4µs |       127.0.0.1 | GET      "/assets/group_avatar/5ea874f5-8312-4efa-98d9-f90a6a867f71.png"
+[GIN] 2026/08/26 - 11:49:38 | 200 |      1.1274ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+[GIN] 2026/08/26 - 11:49:38 | 200 |       589.7µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+[GIN] 2026/08/26 - 11:49:38 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+[GIN] 2026/08/26 - 11:49:38 | 200 |       529.3µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+[GIN] 2026/08/26 - 11:49:38 | 200 |      1.0655ms |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+[GIN] 2026/08/26 - 11:49:38 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+[GIN] 2026/08/26 - 11:49:38 | 200 |       522.3µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+[GIN] 2026/08/26 - 11:49:38 | 200 |       557.1µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+2026/08/26 11:49:38 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:38 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:38 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 11:49:38 | 200 |         707µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:49:52 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:52 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png"
+2026/08/26 11:49:52 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:52 | 200 |       550.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   user_id = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 11:49:53 | 200 |       546.2µs |       127.0.0.1 | GET      "/api/v1/user/get?user_id=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /api/v1/user/get | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   user_id = 0c64e211-09dd-4e53-870a-031940f079dc
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /api/v1/notification/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:53 | 200 |      1.2653ms |       127.0.0.1 | GET      "/api/v1/user/get?user_id=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /api/v1/conversation/list | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/26 - 11:49:53 | 200 |      1.7026ms |       127.0.0.1 | GET      "/api/v1/notification/list"
+[GIN] 2026/08/26 - 11:49:53 | 200 |      1.0543ms |       127.0.0.1 | GET      "/api/v1/conversation/list"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:49:53 | 200 |      2.7545ms |       127.0.0.1 | GET      "/assets/group_avatar/7fa1a61c-128d-4fd9-9085-952c95d86c09.gif"
+[GIN] 2026/08/26 - 11:49:53 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 9279b25e-d928-47af-be8e-da9d6fb19254
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 743f15bd-db4f-4d08-8542-abc6304e2a85
+[GIN] 2026/08/26 - 11:49:53 | 200 |       545.5µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=9279b25e-d928-47af-be8e-da9d6fb19254"
+[GIN] 2026/08/26 - 11:49:53 | 200 |       534.2µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=743f15bd-db4f-4d08-8542-abc6304e2a85"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = b98b62ec-4e71-451d-a8a3-f7edcdcd7e06
+[GIN] 2026/08/26 - 11:49:53 | 200 |       545.9µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=b98b62ec-4e71-451d-a8a3-f7edcdcd7e06"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 7c616e76-a718-4e59-b544-9216516758df
+[GIN] 2026/08/26 - 11:49:53 | 200 |       562.2µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7c616e76-a718-4e59-b544-9216516758df"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 7467ce47-0f88-4800-bf8c-eda67cde3814
+[GIN] 2026/08/26 - 11:49:53 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=7467ce47-0f88-4800-bf8c-eda67cde3814"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = be8bce8d-2bd2-443f-ae81-6856b07ca11f
+[GIN] 2026/08/26 - 11:49:53 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=be8bce8d-2bd2-443f-ae81-6856b07ca11f"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = a4a314e3-462f-4e18-9e8b-87cb542507bc
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 440e24ab-ae93-4fa6-9bdd-492cfe388af1
+[GIN] 2026/08/26 - 11:49:53 | 200 |      1.0963ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=a4a314e3-462f-4e18-9e8b-87cb542507bc"
+[GIN] 2026/08/26 - 11:49:53 | 200 |      1.2309ms |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=440e24ab-ae93-4fa6-9bdd-492cfe388af1"
+2026/08/26 11:49:53 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:49:53 request_logging.go:45: [Query Parameters]
+2026/08/26 11:49:53 request_logging.go:48:   avatar_key = 0c64e211-09dd-4e53-870a-031940f079dc
+[GIN] 2026/08/26 - 11:49:53 | 200 |       544.9µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=0c64e211-09dd-4e53-870a-031940f079dc"
+2026/08/26 11:50:07 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=ff90df44ebfb3b81-8dd7a9c278db4540-a6e4356737e89c4b-302926157e2676fa | Content-Length: 359
+2026/08/26 11:50:07 request_logging.go:122: [Form Fields]
+2026/08/26 11:50:07 request_logging.go:125:   group_id = 65c34586-1ac1-4082-b118-0c2ff5d95ad7
+2026/08/26 11:50:07 request_logging.go:125:   content = aaa
+[GIN] 2026/08/26 - 11:50:07 | 201 |      6.3484ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:50:07 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:07 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:07 request_logging.go:48:   avatar_key = 3c25a5e6-1ca3-43a8-a30d-2da0142fdc43
+2026/08/26 11:50:07 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:07 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:07 request_logging.go:48:   avatar_key = 3c25a5e6-1ca3-43a8-a30d-2da0142fdc43
+[GIN] 2026/08/26 - 11:50:07 | 200 |       601.6µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=3c25a5e6-1ca3-43a8-a30d-2da0142fdc43"
+[GIN] 2026/08/26 - 11:50:07 | 200 |       601.6µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=3c25a5e6-1ca3-43a8-a30d-2da0142fdc43"
+2026/08/26 11:50:09 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=e572d8455d73818a-d1f13b8af7090b08-c7a01c58a5c2050f-8f439354c72445ca | Content-Length: 359
+2026/08/26 11:50:09 request_logging.go:122: [Form Fields]
+2026/08/26 11:50:09 request_logging.go:125:   group_id = 65c34586-1ac1-4082-b118-0c2ff5d95ad7
+2026/08/26 11:50:09 request_logging.go:125:   content = bbb
+[GIN] 2026/08/26 - 11:50:09 | 201 |      6.2848ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:50:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:09 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:09 request_logging.go:48:   avatar_key = 3cab200e-bae5-430b-89ec-22092003a920
+[GIN] 2026/08/26 - 11:50:09 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=3cab200e-bae5-430b-89ec-22092003a920"
+2026/08/26 11:50:09 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:09 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:09 request_logging.go:48:   avatar_key = 3cab200e-bae5-430b-89ec-22092003a920
+[GIN] 2026/08/26 - 11:50:09 | 200 |       544.8µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=3cab200e-bae5-430b-89ec-22092003a920"
+2026/08/26 11:50:13 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=d3f4b95f3dadc2f8-cb81d1d74b154b56-e57b3fe8a776e499-1b2ed725e405bfc4 | Content-Length: 359
+2026/08/26 11:50:13 request_logging.go:122: [Form Fields]
+2026/08/26 11:50:13 request_logging.go:125:   group_id = 65c34586-1ac1-4082-b118-0c2ff5d95ad7
+2026/08/26 11:50:13 request_logging.go:125:   content = 123
+[GIN] 2026/08/26 - 11:50:13 | 201 |      7.0052ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:50:13 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:13 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:13 request_logging.go:48:   avatar_key = 806304a6-310e-47c4-929c-fdb2aeaf6f89
+[GIN] 2026/08/26 - 11:50:13 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=806304a6-310e-47c4-929c-fdb2aeaf6f89"
+2026/08/26 11:50:13 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:13 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:13 request_logging.go:48:   avatar_key = 806304a6-310e-47c4-929c-fdb2aeaf6f89
+[GIN] 2026/08/26 - 11:50:13 | 200 |         536µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=806304a6-310e-47c4-929c-fdb2aeaf6f89"
+2026/08/26 11:50:19 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=924f68692d2766d8-825a279da58e69a1-953ea11120a8b31e-81798e4c22aa9ac6 | Content-Length: 172291
+2026/08/26 11:50:19 request_logging.go:97: [Uploaded Files]
+2026/08/26 11:50:19 request_logging.go:108:   Field: files | Filename: 2b6ac63db100ebd363e8059c6b51a44d.jpg | Size: 171765 bytes | Header: map[Content-Disposition:[form-data; name="files"; filename="2b6ac63db100ebd363e8059c6b51a44d.jpg"]]
+2026/08/26 11:50:19 request_logging.go:122: [Form Fields]
+2026/08/26 11:50:19 request_logging.go:125:   group_id = 65c34586-1ac1-4082-b118-0c2ff5d95ad7
+2026/08/26 11:50:19 request_logging.go:125:   content = 
+[GIN] 2026/08/26 - 11:50:19 | 201 |      7.0901ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:50:19 request_logging.go:21: [Request] GET /assets/message_file/7931ed12-4032-4bf1-9712-0336891530c8.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:19 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:19 request_logging.go:45: [Query Parameters]
+[GIN] 2026/08/26 - 11:50:19 | 200 |            0s |       127.0.0.1 | GET      "/assets/message_file/7931ed12-4032-4bf1-9712-0336891530c8.jpg"
+2026/08/26 11:50:19 request_logging.go:48:   avatar_key = 1a8c32e6-1dab-449f-8655-89afc48d1d80
+[GIN] 2026/08/26 - 11:50:19 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=1a8c32e6-1dab-449f-8655-89afc48d1d80"
+2026/08/26 11:50:19 request_logging.go:21: [Request] GET /assets/message_file/7931ed12-4032-4bf1-9712-0336891530c8.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:19 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:19 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:19 request_logging.go:48:   avatar_key = 1a8c32e6-1dab-449f-8655-89afc48d1d80
+[GIN] 2026/08/26 - 11:50:19 | 200 |       583.5µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=1a8c32e6-1dab-449f-8655-89afc48d1d80"
+[GIN] 2026/08/26 - 11:50:19 | 200 |       583.5µs |       127.0.0.1 | GET      "/assets/message_file/7931ed12-4032-4bf1-9712-0336891530c8.jpg"
+2026/08/26 11:50:27 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=65c3e1719537fb48-5d3648cfb854dd41-5b277ded887be637-3dd40dc0ea88269b | Content-Length: 359
+2026/08/26 11:50:27 request_logging.go:122: [Form Fields]
+2026/08/26 11:50:27 request_logging.go:125:   group_id = 65c34586-1ac1-4082-b118-0c2ff5d95ad7
+2026/08/26 11:50:27 request_logging.go:125:   content = w 
+[GIN] 2026/08/26 - 11:50:27 | 201 |      5.9635ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:50:27 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:27 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:27 request_logging.go:48:   avatar_key = 72db0c54-c585-4947-921d-e075de0613b5
+[GIN] 2026/08/26 - 11:50:27 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=72db0c54-c585-4947-921d-e075de0613b5"
+2026/08/26 11:50:27 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:27 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:27 request_logging.go:48:   avatar_key = 72db0c54-c585-4947-921d-e075de0613b5
+[GIN] 2026/08/26 - 11:50:27 | 200 |       519.6µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=72db0c54-c585-4947-921d-e075de0613b5"
+2026/08/26 11:50:57 request_logging.go:21: [Request] GET /api/v1/search | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:50:57 request_logging.go:45: [Query Parameters]
+2026/08/26 11:50:57 request_logging.go:48:   keyword = 76230ec9-ec5f-451e-8347-520b0815ee97
+[GIN] 2026/08/26 - 11:50:57 | 200 |       1.041ms |       127.0.0.1 | GET      "/api/v1/search?keyword=76230ec9-ec5f-451e-8347-520b0815ee97"
+2026/08/26 11:50:58 request_logging.go:21: [Request] POST /api/v1/friend/request | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 52
+2026/08/26 11:50:58 request_logging.go:143: [JSON Body]
+{
+  "friend_id": "76230ec9-ec5f-451e-8347-520b0815ee97"
+}
+[GIN] 2026/08/26 - 11:50:58 | 201 |      6.6837ms |       127.0.0.1 | POST     "/api/v1/friend/request"
+2026/08/26 11:51:09 request_logging.go:21: [Request] POST /api/v1/friend/review-request | ClientIP: 127.0.0.1 | Content-Type: application/json | Content-Length: 74
+2026/08/26 11:51:09 request_logging.go:143: [JSON Body]
+{
+  "approved": true,
+  "notification_id": "dcab934c-ad18-4f86-b7e6-869464b69d1d"
+}
+[GIN] 2026/08/26 - 11:51:09 | 200 |      5.2796ms |       127.0.0.1 | POST     "/api/v1/friend/review-request"
+2026/08/26 11:51:14 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=403850ed7313c0f8-20b9a9bc56ac6425-7432f6fb4a8243f9-3b6ac10aedfd9ff5 | Content-Length: 361
+2026/08/26 11:51:14 request_logging.go:122: [Form Fields]
+2026/08/26 11:51:14 request_logging.go:125:   group_id = 91162b4f-6413-4684-bd63-ba055a3cd35a
+2026/08/26 11:51:14 request_logging.go:125:   content = hell
+[GIN] 2026/08/26 - 11:51:14 | 201 |       5.417ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:51:14 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:51:14 request_logging.go:45: [Query Parameters]
+2026/08/26 11:51:14 request_logging.go:48:   avatar_key = af87169e-5589-4830-879d-8f5c39a1d8da
+[GIN] 2026/08/26 - 11:51:14 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=af87169e-5589-4830-879d-8f5c39a1d8da"
+2026/08/26 11:51:14 request_logging.go:21: [Request] GET /assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:51:14 request_logging.go:45: [Query Parameters]
+2026/08/26 11:51:14 request_logging.go:48:   avatar_key = af87169e-5589-4830-879d-8f5c39a1d8da
+[GIN] 2026/08/26 - 11:51:14 | 200 |       535.5µs |       127.0.0.1 | GET      "/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg?avatar_key=af87169e-5589-4830-879d-8f5c39a1d8da"
+2026/08/26 11:51:18 request_logging.go:21: [Request] POST /api/v1/message/send | ClientIP: 127.0.0.1 | Content-Type: multipart/form-data; boundary=ed1233c61ac93655-0dd4a5764ed69d90-e892b662abf62403-b9c748e4d626b9e9 | Content-Length: 361
+2026/08/26 11:51:18 request_logging.go:122: [Form Fields]
+2026/08/26 11:51:18 request_logging.go:125:   content = heelo
+2026/08/26 11:51:18 request_logging.go:125:   group_id = 91162b4f-6413-4684-bd63-ba055a3cd35a
+[GIN] 2026/08/26 - 11:51:18 | 201 |      6.1114ms |       127.0.0.1 | POST     "/api/v1/message/send"
+2026/08/26 11:51:18 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:51:18 request_logging.go:45: [Query Parameters]
+2026/08/26 11:51:18 request_logging.go:48:   avatar_key = e0870e36-642f-4457-918f-88fc6bc380cd
+[GIN] 2026/08/26 - 11:51:18 | 200 |       530.8µs |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=e0870e36-642f-4457-918f-88fc6bc380cd"
+2026/08/26 11:51:18 request_logging.go:21: [Request] GET /assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/26 11:51:18 request_logging.go:45: [Query Parameters]
+2026/08/26 11:51:18 request_logging.go:48:   avatar_key = e0870e36-642f-4457-918f-88fc6bc380cd
+[GIN] 2026/08/26 - 11:51:18 | 200 |            0s |       127.0.0.1 | GET      "/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png?avatar_key=e0870e36-642f-4457-918f-88fc6bc380cd"
+[GIN] 2026/08/26 - 11:51:39 | 200 |         1m45s |       127.0.0.1 | GET      "/ws"
+[GIN] 2026/08/26 - 11:51:40 | 200 |          2m1s |       127.0.0.1 | GET      "/ws"

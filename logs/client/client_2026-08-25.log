@@ -1,0 +1,842 @@
+[2026-08-25 11:00:53] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:00:53] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:00:53] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:00:53] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:00:53] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:00:54] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:00:56] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg", status: 502, body: "" }
+[2026-08-25 11:01:12] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:02:10] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(17v7)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:02:10] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:02:10] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:02:10] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:02:10] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:02:10] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:02:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 11:02:11] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 11:02:14] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:09:28] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:09:28] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:09:28] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:09:28] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:09:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:09:31] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg", status: 502, body: "" }
+[2026-08-25 11:09:34] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:09:34] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:09:34] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:09:34] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:09:34] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:09:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:140] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-25 11:09:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:148] websocket disconnected; retrying in 10 seconds
+[2026-08-25 11:09:36] [ERROR] [gui::ui::home::core] [gui\src\ui\home\core.rs:62] failed to load initial component data: 请求失败 [http://127.0.0.1:34332/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97]: error sending request for url (http://127.0.0.1:34332/api/v1/user/get?user_id=76230ec9-ec5f-451e-8347-520b0815ee97)
+[2026-08-25 11:09:44] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:09:48] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:09:48] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:09:48] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:09:48] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:09:48] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:09:51] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg", status: 502, body: "" }
+[2026-08-25 11:10:31] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:10:33] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:27:00] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:27:00] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:27:00] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:27:00] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:27:01] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:27:04] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg", status: 502, body: "" }
+[2026-08-25 11:28:08] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:28:08] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(14v3)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:28:12] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:29:35] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:29:35] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:29:35] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:29:35] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:29:36] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:29:39] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/03389d943e085d5f19fb2d503f0e94c5.jpg", status: 502, body: "" }
+[2026-08-25 11:29:53] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:29:54] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:29:54] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:29:54] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:29:54] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:29:54] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:29:54] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:29:54] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 11:29:54] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 11:30:12] [INFO] [gui::infrastructure::http_request] [gui\src\infrastructure\http_request.rs:68] 请求失败, 状态码: 404 Not Found, 响应: 404 page not found
+[2026-08-25 11:30:22] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:30:22] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: Other(loading image asset from "C:/Users/10463/Documents/Tencent Files/1046364655/nt_qq/nt_data/Pic/2026-02/Ori/1abc155f6074f4521b53b7416dacbb07.jpg"
+
+Caused by:
+    invalid format
+
+Stack backtrace:
+   0: std::backtrace_rs::backtrace::win64::trace
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\win64.rs:85
+   1: std::backtrace_rs::backtrace::trace_unsynchronized
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\mod.rs:66
+   2: std::backtrace::Backtrace::create
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:331
+   3: std::backtrace::Backtrace::capture
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:296
+   4: anyhow::error::impl$1::from<http::error::Error>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anyhow-1.0.104\src\backtrace.rs:10
+   5: core::convert::impl$3::into<http::error::Error,anyhow::Error>
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\convert\mod.rs:778
+   6: http_client::HttpClient::get::async_block$0<reqwest_client::ReqwestClient>
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\http_client\src\http_client.rs:150
+   7: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<http::response::Response<http_client::async_body::AsyncBody>,anyhow::Error> > > >,core::marker::Send>,alloc::alloc::Global> >
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+   8: gpui::elements::img::impl$23::load::async_block$0
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\elements\img.rs:641
+   9: futures_core::future::impl$2::try_poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.34\src\future.rs:92
+  10: futures_util::future::try_future::into_future::impl$2::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\try_future\into_future.rs:34
+  11: futures_util::future::future::map::impl$2::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectFn<futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\future\map.rs:55
+  12: futures_util::future::future::impl$35::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  13: futures_util::future::try_future::impl$51::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui::elements::img::ImageAssetLoader>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::all
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  14: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core::mar
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+  15: async_task::raw::RawTask<core::pin::Pin<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs:557
+  16: async_task::runnable::Runnable<scheduler::RunnableMeta>::run<scheduler::RunnableMeta>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs:781
+  17: gpui_windows::dispatcher::WindowsDispatcher::execute_runnable
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:96
+  18: gpui_windows::dispatcher::run_work_callback
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:180
+  19: TpAlpcUnregisterCompletionList
+  20: RtlSetThreadSubProcessTag
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart)
+[2026-08-25 11:30:23] [INFO] [gui::infrastructure::http_request] [gui\src\infrastructure\http_request.rs:68] 请求失败, 状态码: 404 Not Found, 响应: 404 page not found
+[2026-08-25 11:30:26] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(14v3)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:30:47] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:36:45] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:36:45] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:36:45] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:36:45] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:36:45] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:36:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:36:49] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:36:49] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:36:49] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:36:49] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:36:49] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 11:36:49] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 11:36:54] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:36:54] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: Other(loading image asset from "C:/Users/10463/Documents/Tencent Files/1046364655/nt_qq/nt_data/Pic/2026-02/Ori/0b92cf44abfe545a506a009238d3dbc5.gif"
+
+Caused by:
+    invalid format
+
+Stack backtrace:
+   0: std::backtrace_rs::backtrace::win64::trace
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\win64.rs:85
+   1: std::backtrace_rs::backtrace::trace_unsynchronized
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\mod.rs:66
+   2: std::backtrace::Backtrace::create
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:331
+   3: std::backtrace::Backtrace::capture
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:296
+   4: anyhow::error::impl$1::from<http::error::Error>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anyhow-1.0.104\src\backtrace.rs:10
+   5: core::convert::impl$3::into<http::error::Error,anyhow::Error>
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\convert\mod.rs:778
+   6: http_client::HttpClient::get::async_block$0<reqwest_client::ReqwestClient>
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\http_client\src\http_client.rs:150
+   7: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<http::response::Response<http_client::async_body::AsyncBody>,anyhow::Error> > > >,core::marker::Send>,alloc::alloc::Global> >
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+   8: gpui::elements::img::impl$23::load::async_block$0
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\elements\img.rs:641
+   9: futures_core::future::impl$2::try_poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.34\src\future.rs:92
+  10: futures_util::future::try_future::into_future::impl$2::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\try_future\into_future.rs:34
+  11: futures_util::future::future::map::impl$2::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectFn<futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\future\map.rs:55
+  12: futures_util::future::future::impl$35::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  13: futures_util::future::try_future::impl$51::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui::elements::img::ImageAssetLoader>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::all
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  14: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core::mar
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+  15: async_task::raw::RawTask<core::pin::Pin<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs:557
+  16: async_task::runnable::Runnable<scheduler::RunnableMeta>::run<scheduler::RunnableMeta>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs:781
+  17: gpui_windows::dispatcher::WindowsDispatcher::execute_runnable
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:96
+  18: gpui_windows::dispatcher::run_work_callback
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:180
+  19: TpAlpcUnregisterCompletionList
+  20: RtlSetThreadSubProcessTag
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart)
+[2026-08-25 11:37:00] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(26v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:37:07] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:49:46] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:49:46] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:49:46] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:49:46] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:49:47] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:49:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:49:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:49:49] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:49:49] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:49:49] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:49:49] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:49:49] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 11:49:49] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 11:49:54] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:49:54] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: Other(loading image asset from "C:/Users/10463/Documents/Tencent Files/1046364655/nt_qq/nt_data/Pic/2026-02/Ori/0efd4419cf8ce83d8a58c937f2d56126.png"
+
+Caused by:
+    invalid format
+
+Stack backtrace:
+   0: std::backtrace_rs::backtrace::win64::trace
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\win64.rs:85
+   1: std::backtrace_rs::backtrace::trace_unsynchronized
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\..\..\backtrace\src\backtrace\mod.rs:66
+   2: std::backtrace::Backtrace::create
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:331
+   3: std::backtrace::Backtrace::capture
+             at /rustc/31fca3adb283cc9dfd56b49cdee9a96eb9c96ffd/library\std\src\backtrace.rs:296
+   4: anyhow::error::impl$1::from<http::error::Error>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anyhow-1.0.104\src\backtrace.rs:10
+   5: core::convert::impl$3::into<http::error::Error,anyhow::Error>
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\convert\mod.rs:778
+   6: http_client::HttpClient::get::async_block$0<reqwest_client::ReqwestClient>
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\http_client\src\http_client.rs:150
+   7: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<http::response::Response<http_client::async_body::AsyncBody>,anyhow::Error> > > >,core::marker::Send>,alloc::alloc::Global> >
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+   8: gpui::elements::img::impl$23::load::async_block$0
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\elements\img.rs:641
+   9: futures_core::future::impl$2::try_poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.34\src\future.rs:92
+  10: futures_util::future::try_future::into_future::impl$2::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\try_future\into_future.rs:34
+  11: futures_util::future::future::map::impl$2::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectFn<futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\future\future\map.rs:55
+  12: futures_util::future::future::impl$35::poll<futures_util::future::try_future::into_future::IntoFuture<enum2$<gpui::elements::img::impl$23::load::async_block_env$0> >,futures_util::fns::InspectErrFn<gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  13: futures_util::future::try_future::impl$51::poll<enum2$<gpui::elements::img::impl$23::load::async_block_env$0>,gpui::asset_cache::impl$3::load::closure_env$0<enum2$<gpui::elements::img::ImageAssetLoader>,alloc::sync::Arc<gpui::assets::RenderImage,alloc::all
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-util-0.3.34\src\lib.rs:85
+  14: core::future::future::impl$1::poll<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core::mar
+             at C:\Users\10463\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core\src\future\future.rs:133
+  15: async_task::raw::RawTask<core::pin::Pin<alloc::boxed::Box<dyn$<core::future::future::Future<assoc$<Output,enum2$<core::result::Result<alloc::sync::Arc<gpui::assets::RenderImage,alloc::alloc::Global>,enum2$<gpui::elements::img::ImageCacheError> > > > >,core
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs:557
+  16: async_task::runnable::Runnable<scheduler::RunnableMeta>::run<scheduler::RunnableMeta>
+             at C:\Users\10463\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs:781
+  17: gpui_windows::dispatcher::WindowsDispatcher::execute_runnable
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:96
+  18: gpui_windows::dispatcher::run_work_callback
+             at C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\dispatcher.rs:180
+  19: TpAlpcUnregisterCompletionList
+  20: RtlSetThreadSubProcessTag
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart)
+[2026-08-25 11:49:57] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(8v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:50:00] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:50:07] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:54:46] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 11:54:46] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 11:54:46] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 11:54:46] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 11:54:46] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:54:48] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:54:48] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 11:54:48] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 11:54:48] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 11:54:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 11:54:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 11:54:48] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 11:54:53] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 11:54:57] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 11:55:38] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(9v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:55:38] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(11v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 11:55:47] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 13:33:45] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 13:33:45] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 13:33:45] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 13:33:45] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 13:33:45] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:34:04] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 13:34:08] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(1v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:34:15] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 13:42:18] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 13:42:19] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 13:42:19] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 13:42:19] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 13:42:19] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:42:56] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:42:56] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:42:56] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 13:42:56] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 13:42:56] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 13:42:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 13:42:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 13:42:56] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 13:43:06] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 13:43:13] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(13v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:43:17] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(7v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:43:26] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(13v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:43:38] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(13v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:43:51] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:43:52] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:203] 啊啊啊
+[2026-08-25 13:45:04] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 13:55:17] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 13:55:17] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 13:55:17] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 13:55:17] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 13:55:18] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:55:20] [ERROR] [gpui::asset_cache] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\asset_cache.rs:75] Failed to load asset: BadStatus { uri: "http://127.0.0.1:34332/assets/user_avatar/d6739109-0719-42be-9bda-7492be4c80dd.png", status: 502, body: "" }
+[2026-08-25 13:55:30] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 13:55:30] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(7v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:55:42] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(6v3)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:55:45] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 13:55:45] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 13:55:45] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 13:55:45] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 13:55:45] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 13:55:45] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 13:55:45] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 13:55:48] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:203] 000
+[2026-08-25 13:55:52] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:203] 1442
+[2026-08-25 13:55:54] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:203] 424
+[2026-08-25 13:56:26] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 13:56:26] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(7v5)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:56:31] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(7v5)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 13:56:33] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:02:55] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 14:02:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 14:02:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 14:02:55] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 14:02:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:02:56] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:03:04] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 14:03:04] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 14:03:04] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 14:03:04] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 14:03:05] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:03:08] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 14:03:09] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:03:09] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:03:09] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 14:03:09] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 14:03:09] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:03:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 14:03:09] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 14:03:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 14:03:10] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:11] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 14:05:11] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 14:05:11] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 14:05:11] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 14:05:11] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:05:19] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 14:05:19] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:05:19] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 14:05:19] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 14:05:20] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 14:05:20] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 14:05:20] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 14:05:20] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 14:05:20] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:20] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 14:05:20] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 14:05:20] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 14:05:20] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 14:05:29] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 14:05:29] [INFO] [gui::state::core] [gui\src\state\core.rs:39] initializing websocket connection
+[2026-08-25 14:05:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1639] window not found
+[2026-08-25 14:05:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 14:05:29] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 14:05:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 14:05:35] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 14:05:38] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(11v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 14:05:40] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1447] Accessibility activated
+[2026-08-25 14:05:40] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(17v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 14:05:43] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(17v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 14:05:43] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:45] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(17v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 14:05:51] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:55] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(17v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 14:05:55] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 14:05:57] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui\src\window.rs:1710] window not found
+[2026-08-25 15:16:11] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 15:16:11] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 15:16:11] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 15:16:11] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 15:16:12] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:16:12] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:16:14] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:16:14] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:16:14] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 15:16:14] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 15:16:14] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 15:16:14] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 15:16:14] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:16:14] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 15:16:49] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 15:16:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 15:16:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 15:16:50] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 15:16:50] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:16:50] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:16:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:16:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:16:51] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 15:16:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 15:16:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 15:16:51] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 15:16:51] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:16:51] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 15:16:54] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:16:58] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:17:08] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:17:08] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(5v3)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 15:17:12] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:17:13] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:17:14] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:30:55] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 15:30:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 15:30:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 15:30:55] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 15:30:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:30:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:30:58] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:30:59] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:30:59] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:30:59] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 15:30:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 15:30:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 15:30:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 15:30:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:30:59] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 15:30:59] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 15:30:59] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 15:30:59] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 15:30:59] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 15:31:00] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 15:31:00] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:31:01] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:31:01] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 15:31:02] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 15:31:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 15:31:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 15:31:02] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 15:31:02] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:31:02] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 15:31:04] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:31:06] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 15:31:11] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:157] unknown message type: group.join_requested
+[2026-08-25 15:31:11] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:31:16] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 15:31:17] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:48:40] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 16:48:40] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 16:48:40] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 16:48:40] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 16:48:41] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:48:41] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 16:48:48] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:48:48] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:48:48] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 16:48:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 16:48:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 16:48:48] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 16:48:48] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:48:48] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 16:48:53] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: group.join_request_resolved
+[2026-08-25 16:49:01] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 16:49:01] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 16:49:01] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 16:49:01] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 16:49:01] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:49:01] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 16:49:03] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 16:49:03] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 16:49:03] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 16:49:03] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 16:49:03] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 16:49:03] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 16:49:03] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:49:03] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 16:49:07] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:204] 我操
+
+[2026-08-25 16:49:12] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:204] fuck you
+[2026-08-25 16:49:18] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 16:49:20] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 16:49:20] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 16:49:25] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 16:49:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:49:30] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:49:49] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 16:49:49] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 16:49:49] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 16:49:49] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 16:49:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:49:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 16:49:50] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 16:49:50] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 16:49:50] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 16:49:50] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 16:49:50] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 16:49:50] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 16:49:50] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 16:49:58] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 16:49:58] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:34:49] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 17:34:49] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 17:34:49] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 17:34:49] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 17:34:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:34:49] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 17:34:59] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:34:59] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:34:59] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 17:34:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 17:34:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 17:34:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 17:34:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:34:59] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 17:35:17] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 17:35:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:35:29] [ERROR] [gpui_windows::dispatcher] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\dispatcher.rs:129] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 17:48:15] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 17:48:15] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 17:48:15] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 17:48:15] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 17:48:16] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:48:16] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 17:48:17] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:48:17] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:48:17] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 17:48:17] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 17:48:17] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 17:48:17] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 17:48:17] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:48:17] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 17:49:29] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 17:51:31] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:51:31] [ERROR] [gpui_windows::dispatcher] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\dispatcher.rs:129] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 17:54:55] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 17:54:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 17:54:55] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 17:54:55] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 17:54:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:54:55] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 17:54:56] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:54:57] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 17:54:57] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 17:54:57] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 17:54:57] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 17:54:57] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:54:57] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 17:55:23] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 17:55:50] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:55:50] [ERROR] [gpui_windows::dispatcher] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\dispatcher.rs:129] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 17:55:57] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 17:55:57] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 17:55:57] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 17:55:57] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 17:55:58] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:55:58] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 17:55:59] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 17:55:59] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 17:55:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 17:55:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 17:55:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 17:55:59] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 17:55:59] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 17:56:20] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 17:56:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:01:53] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:01:53] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:01:53] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:01:53] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:01:53] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:01:53] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:01:54] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:01:54] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:01:54] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:01:54] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:01:54] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:01:54] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:01:54] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:01:54] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:02:15] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 18:04:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:04:29] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:04:29] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:04:29] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:04:29] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:04:30] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:04:30] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:04:32] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:04:32] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:04:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:04:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:04:32] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:04:32] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:04:32] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:04:40] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 234234
+[2026-08-25 18:04:44] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 热热热
+[2026-08-25 18:04:50] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:04:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:04:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:04:51] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:04:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:04:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:04:52] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:04:52] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:04:52] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:04:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:04:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:04:52] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:04:52] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:04:52] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:04:58] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 18:04:58] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:05:03] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 18:05:03] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:05:07] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 我日
+
+[2026-08-25 18:05:16] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:05:17] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:06:17] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:06:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:06:21] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:06:22] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:07:23] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:08:42] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:08:42] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:08:42] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:08:42] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:08:42] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:08:42] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:08:43] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:08:43] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:08:43] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:08:43] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:08:43] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:08:43] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:08:43] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:09:53] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 18:09:53] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(13v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 18:12:05] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:14:27] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:14:27] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:14:27] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:14:27] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:14:27] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:14:27] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:14:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:14:28] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:14:28] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:14:28] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:14:28] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:14:28] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:14:28] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:14:37] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:45:36] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 18:45:36] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 18:45:36] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 18:45:36] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 18:45:36] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:45:36] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 18:45:37] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:45:37] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 18:45:37] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 18:45:37] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 18:45:37] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 18:45:37] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 18:45:37] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 18:45:37] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:7] loaded 0 friends
+[2026-08-25 18:52:57] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 18:53:04] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:05:23] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:05:23] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:05:23] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:05:23] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:05:23] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:05:23] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:05:24] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:05:24] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:05:25] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:05:25] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:05:25] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:05:25] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:05:25] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:05:25] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:8] loaded 0 friends
+[2026-08-25 19:05:25] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:05:25] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:05:25] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:05:25] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:05:25] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:05:25] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:05:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:05:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:05:29] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:05:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:05:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:05:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:05:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:05:29] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:8] loaded 0 friends
+[2026-08-25 19:05:31] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:05:33] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.requested
+[2026-08-25 19:05:33] [INFO] [gui::ui::home::message_page::group_user] [gui\src\ui\home\message_page\group_user\mod.rs:91] 好友申请已发送
+[2026-08-25 19:05:37] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:05:41] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.request_reviewed
+[2026-08-25 19:09:48] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:122] websocket read failed: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054)
+[2026-08-25 19:09:48] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:122] websocket read failed: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054)
+[2026-08-25 19:09:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:148] websocket disconnected; retrying in 10 seconds
+[2026-08-25 19:09:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:148] websocket disconnected; retrying in 10 seconds
+[2026-08-25 19:09:52] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\window.rs:604] 无效的窗口句柄 (0x80040102)
+[2026-08-25 19:09:52] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\window.rs:605] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 19:09:52] [ERROR] [gpui_windows::dispatcher] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\dispatcher.rs:129] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 19:09:58] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:09:59] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\window.rs:604] 无效的窗口句柄 (0x80040102)
+[2026-08-25 19:09:59] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\window.rs:605] 无效的窗口句柄。 (0x80070578)
+[2026-08-25 19:10:13] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:10:13] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:10:14] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:10:14] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:10:14] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:10:14] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:10:15] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:10:15] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:10:15] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:10:15] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:10:15] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:10:15] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:10:15] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:8] loaded 1 friends
+[2026-08-25 19:10:15] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:10:16] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:10:16] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:10:16] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:10:16] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:10:16] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:10:19] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:10:19] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:10:19] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:10:19] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:10:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:10:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:10:19] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:8] loaded 1 friends
+[2026-08-25 19:10:29] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 我操你得几把
+[2026-08-25 19:10:31] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:10:39] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:10:39] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:10:41] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(7v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:10:48] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:10:50] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:10:53] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:10:56] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] fuck
+[2026-08-25 19:11:12] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:11:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:15:51] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:27:50] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:27:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:27:50] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:27:50] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:27:50] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:27:50] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:27:51] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:27:51] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:27:51] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:27:51] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:27:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:27:51] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:28:15] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:28:15] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:28:16] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:28:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:28:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:28:16] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:28:16] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:28:16] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:14] loaded 1 friends and 4 conversations
+[2026-08-25 19:28:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:28:28] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:28:29] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:28:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:28:29] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:28:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:28:29] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:28:29] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:14] loaded 1 friends and 2 conversations
+[2026-08-25 19:28:31] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.removed
+[2026-08-25 19:28:31] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.removed
+[2026-08-25 19:28:33] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:28:40] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.requested
+[2026-08-25 19:28:40] [INFO] [gui::ui::home::message_page::group_user] [gui\src\ui\home\message_page\group_user\mod.rs:91] 好友申请已发送
+[2026-08-25 19:28:42] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:28:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: friend.request_reviewed
+[2026-08-25 19:28:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: add_friend
+[2026-08-25 19:28:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:169] unknown message type: add_friend
+[2026-08-25 19:30:07] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:38:17] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:38:44] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:38:44] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:38:44] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:38:44] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:38:44] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:38:44] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:39:18] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:39:19] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:39:19] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:39:19] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:39:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:39:19] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:39:19] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:14] loaded 1 friends and 5 conversations
+[2026-08-25 19:39:21] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:39:26] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 19:39:27] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 19:39:27] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 19:39:27] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 19:39:27] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 19:39:27] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:39:32] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 19:39:32] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 19:39:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 19:39:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 19:39:32] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 19:39:32] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:39:32] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:14] loaded 1 friends and 3 conversations
+[2026-08-25 19:39:35] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: friend.removed
+[2026-08-25 19:39:35] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: friend.removed
+[2026-08-25 19:39:47] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: friend.requested
+[2026-08-25 19:39:47] [INFO] [gui::ui::home::message_page::group_user] [gui\src\ui\home\message_page\group_user\mod.rs:91] 好友申请已发送
+[2026-08-25 19:39:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: friend.request_reviewed
+[2026-08-25 19:39:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: add_friend
+[2026-08-25 19:39:52] [INFO] [gui::ui::home::message_page::core] [gui\src\ui\home\message_page\core.rs:180] unknown message type: add_friend
+[2026-08-25 19:39:54] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:40:00] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 你傻逼吗 老加我
+[2026-08-25 19:40:03] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 19:40:04] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:40:09] [INFO] [gui::ui::home::message_page::send_message] [gui\src\ui\home\message_page\send_message\mod.rs:207] 我tm 就加
+[2026-08-25 19:40:27] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:40:31] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 19:40:32] [INFO] [gpui::window::a11y] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window\a11y.rs:196] a11y: focused element (FocusId(12v1)) has no accessibility node (it has an id but no role); assistive technology will announce the whole window instead. Give it both an `.id(...)` and a `.role(...)` to expose it.
+[2026-08-25 19:40:32] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 20:10:06] [INFO] [gui] [gui\src\main.rs:50] init logger success: C:\Users\10463\Desktop\project\gpui_chat\logs\client\client_2026-08-25.log
+[2026-08-25 20:10:06] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-25 20:10:06] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-25 20:10:06] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-25 20:10:07] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 20:10:07] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\1234.db
+[2026-08-25 20:10:08] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 20:10:08] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:44] using session database at \\?\C:\Users\10463\Desktop\project\gpui_chat\data\client\123.db
+[2026-08-25 20:10:08] [INFO] [gui::state::core] [gui\src\state\core.rs:40] initializing websocket connection
+[2026-08-25 20:10:08] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:25] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-25 20:10:08] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:60] websocket connected
+[2026-08-25 20:10:08] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1660] window not found
+[2026-08-25 20:10:08] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found
+[2026-08-25 20:10:08] [INFO] [gui::ui::home::friend_page::core] [gui\src\ui\home\friend_page\core.rs:13] loaded 1 friends and 3 conversations
+[2026-08-25 20:10:29] [INFO] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1463] Accessibility activated
+[2026-08-25 20:11:57] [ERROR] [gpui::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\e973593\crates\gpui\src\window.rs:1731] window not found

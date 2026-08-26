@@ -1,0 +1,170 @@
+2026/08/20 17:17:09 file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\server\logs\server_
+2026/08/20 17:17:09 chat server listening on 0.0.0.0:34332 with memory storage
+2026/08/20 17:17:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+2026/08/20 17:17:11 [Request] GET /user_message_group | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:17:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:17:11 [Query Parameters]
+2026/08/20 17:17:11   user_id = 6d715983-e2c5-4cf2-9b97-6ca691353fb4
+[GIN] 2026/08/20 - 17:17:11 | 404 |            0s |       127.0.0.1 | GET      "/user_message_group?user_id=6d715983-e2c5-4cf2-9b97-6ca691353fb4"
+2026/08/20 17:17:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:17:21 | 401 |       578.7µs |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:17:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:17:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:17:41 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:17:41 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:17:51 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:17:51 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:01 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:01 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:21 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:41 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:41 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:18:51 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:18:51 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:01 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:01 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:21 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:41 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:41 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:19:51 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:19:51 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:01 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:01 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:21 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:41 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:41 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:20:51 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:20:51 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:01 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:01 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:21 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:41 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:41 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:21:51 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:21:51 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:01 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:01 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:11 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:11 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:21 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:21 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:31 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:31 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:42 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:42 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:22:52 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:22:52 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:02 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:02 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:12 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:12 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:22 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:22 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:32 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:32 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:42 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:42 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:23:52 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:23:52 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:24:02 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:24:02 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:24:12 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:24:12 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:24:22 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:24:22 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:24:32 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:24:32 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:24:42 [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:24:42 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:25:15 main.go:55: file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\server\logs\server_
+2026/08/20 17:25:15 main.go:110: chat server listening on 0.0.0.0:34332 with memory storage
+2026/08/20 17:25:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:25:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:25:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:25:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:25:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:25:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:25:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:25:46 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:25:56 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:25:56 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:06 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:46 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:26:56 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:26:56 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:06 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:46 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:27:56 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:27:56 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:06 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:46 | 401 |       516.6µs |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:28:56 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:28:56 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:06 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:46 | 401 |       538.4µs |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:29:56 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:29:56 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:30:06 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:30:06 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:30:16 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:30:16 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:30:26 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:30:26 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:30:36 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:30:36 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:30:46 request_logging.go:21: [Request] GET /ws | ClientIP: 127.0.0.1 | Content-Type:  | Content-Length: 0
+[GIN] 2026/08/20 - 17:30:46 | 401 |            0s |       127.0.0.1 | GET      "/ws"
+2026/08/20 17:31:07 main.go:55: file logging enabled with prefix: C:\Users\10463\Desktop\project\gpui_chat\server\logs\server_
+2026/08/20 17:31:07 main.go:83: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub

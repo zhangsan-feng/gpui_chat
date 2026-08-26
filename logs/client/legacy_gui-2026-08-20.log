@@ -1,0 +1,362 @@
+[2026-08-20 17:17:09] [INFO] [gui] [gui\src\main.rs:48] init logger success: ./logs\gui-2026-08-20.log
+[2026-08-20 17:17:09] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:22] using session database at C:\Users\10463\Desktop\project\gpui_chat\data\session.sqlite3
+[2026-08-20 17:17:09] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:121] Using GPU: Intel(R) Iris(R) Xe Graphics
+[2026-08-20 17:17:09] [INFO] [gpui_windows::directx_devices] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\directx_devices.rs:55] Created device with Direct3D 11.1 feature level.
+[2026-08-20 17:17:09] [INFO] [gpui_windows::direct_write] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\direct_write.rs:1887] Use Microsoft YaHei UI as UI font.
+[2026-08-20 17:17:11] [INFO] [gui::infrastructure::session_store::core] [gui\src\infrastructure\session_store\core.rs:22] using session database at C:\Users\10463\Desktop\project\gpui_chat\data\session.sqlite3
+[2026-08-20 17:17:11] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)
+[2026-08-20 17:17:11] [INFO] [gui::state::core] [gui\src\state\core.rs:31] initializing websocket connection
+[2026-08-20 17:17:11] [ERROR] [gpui_windows::window] [C:\Users\10463\.cargo\git\checkouts\zed-a70e2ad075855582\7a7c3e1\crates\gpui_windows\src\window.rs:676] unable to get cursor position: 拒绝访问。 (0x80070005)
+[2026-08-20 17:17:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:17:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:17:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:17:11] [INFO] [gui::infrastructure::http_request] [gui\src\infrastructure\http_request.rs:45] 请求失败, 状态码: 404 Not Found, 响应: 404 page not found
+[2026-08-20 17:17:11] [ERROR] [gui::ui::home::core] [gui\src\ui\home\core.rs:62] failed to load initial component data: 请求失败, 状态码: 404 Not Found, 响应: 404 page not found
+[2026-08-20 17:17:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:17:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:17:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:17:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:17:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:17:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:17:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:17:41] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:17:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:17:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:17:51] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:17:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:01] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:41] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:18:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:18:51] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:18:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:01] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:41] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:19:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:19:51] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:19:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:01] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:41] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:20:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:20:51] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:20:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:01] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:41] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:41] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:21:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:21:51] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:21:51] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:01] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:01] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:21] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:31] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:31] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:42] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:22:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:22:52] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:22:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:02] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:12] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:12] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:12] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:22] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:32] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:42] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:23:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:23:52] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:23:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:02] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:24:02] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:12] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:12] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:24:12] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:22] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:24:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:32] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:24:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:42] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:24:42] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:24:52] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:24:54] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:24:54] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:04] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:25:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:25:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:25:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:25:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:25:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:25:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:25:56] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:25:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:26:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:26:56] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:26:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:27:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:27:56] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:27:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:28:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:28:56] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:28:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:29:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:29:56] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:29:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:06] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:30:06] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:16] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:30:16] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:26] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:30:26] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:30:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:30:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:30:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:30:58] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:30:58] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:31:08] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:31:10] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:31:10] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:31:20] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:31:22] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:31:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:31:32] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:31:34] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:31:34] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:31:44] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:31:46] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:31:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:31:56] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:31:59] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:31:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:32:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:32:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:32:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:32:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:32:23] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:32:23] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:32:33] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:32:35] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:32:35] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:32:45] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:32:47] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:32:47] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:32:57] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:32:59] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:32:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:33:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:33:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:33:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:33:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:33:23] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:33:23] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:33:33] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:33:35] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:33:35] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:33:45] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:33:47] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:33:47] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:33:57] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:33:59] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:33:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:34:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:34:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:34:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:34:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:34:23] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:34:23] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:34:33] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:34:35] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:34:35] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:34:45] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:34:47] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:34:47] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:34:57] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:34:59] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:34:59] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:35:09] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:35:11] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:35:11] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:35:21] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:35:23] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:35:23] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:35:33] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:35:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:35:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:35:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:35:48] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:35:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:35:58] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:36:00] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:36:00] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:36:10] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:36:12] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:36:12] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:36:22] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:36:24] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:36:24] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:36:34] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:36:36] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:36:36] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:36:46] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:36:48] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:36:48] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:36:58] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:37:00] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: IO error: 由于目标计算机积极拒绝，无法连接。 (os error 10061)
+[2026-08-20 17:37:00] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:37:10] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:37:10] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:37:10] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:37:20] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:37:20] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:37:20] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:37:30] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:37:30] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:37:30] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
+[2026-08-20 17:37:40] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:18] connecting to websocket server: ws://127.0.0.1:34332/ws
+[2026-08-20 17:37:40] [ERROR] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:82] failed to connect websocket: HTTP error: 401 Unauthorized
+[2026-08-20 17:37:40] [INFO] [gui::infrastructure::websocket] [gui\src\infrastructure\websocket.rs:87] websocket disconnected; retrying in 10 seconds
