@@ -1,5 +1,0 @@
-./group_repository.go
-./model.go
-./notification_repository.go
-./store.go
-./user_repository.go
